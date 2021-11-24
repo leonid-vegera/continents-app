@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/continents-app/static/css/main.518ce94c.chunk.css",
-    "main.js": "/continents-app/static/js/main.8591c459.chunk.js",
-    "main.js.map": "/continents-app/static/js/main.8591c459.chunk.js.map",
+    "main.css": "/continents-app/static/css/main.59501747.chunk.css",
+    "main.js": "/continents-app/static/js/main.0fe712c6.chunk.js",
+    "main.js.map": "/continents-app/static/js/main.0fe712c6.chunk.js.map",
     "runtime-main.js": "/continents-app/static/js/runtime-main.7698b208.js",
     "runtime-main.js.map": "/continents-app/static/js/runtime-main.7698b208.js.map",
-    "static/js/2.12bce0d1.chunk.js": "/continents-app/static/js/2.12bce0d1.chunk.js",
-    "static/js/2.12bce0d1.chunk.js.map": "/continents-app/static/js/2.12bce0d1.chunk.js.map",
+    "static/js/2.85e86a3e.chunk.js": "/continents-app/static/js/2.85e86a3e.chunk.js",
+    "static/js/2.85e86a3e.chunk.js.map": "/continents-app/static/js/2.85e86a3e.chunk.js.map",
     "index.html": "/continents-app/index.html",
-    "static/css/main.518ce94c.chunk.css.map": "/continents-app/static/css/main.518ce94c.chunk.css.map",
-    "static/js/2.12bce0d1.chunk.js.LICENSE.txt": "/continents-app/static/js/2.12bce0d1.chunk.js.LICENSE.txt"
+    "static/css/main.59501747.chunk.css.map": "/continents-app/static/css/main.59501747.chunk.css.map",
+    "static/js/2.85e86a3e.chunk.js.LICENSE.txt": "/continents-app/static/js/2.85e86a3e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7698b208.js",
-    "static/js/2.12bce0d1.chunk.js",
-    "static/css/main.518ce94c.chunk.css",
-    "static/js/main.8591c459.chunk.js"
+    "static/js/2.85e86a3e.chunk.js",
+    "static/css/main.59501747.chunk.css",
+    "static/js/main.0fe712c6.chunk.js"
   ]
 }

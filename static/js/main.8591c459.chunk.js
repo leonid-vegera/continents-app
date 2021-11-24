@@ -1,2 +1,0 @@
-(this["webpackJsonpcontinents-app"]=this["webpackJsonpcontinents-app"]||[]).push([[0],{10:function(n,t,e){"use strict";e.r(t);e(1);var c=e(3),s=e.n(c),o=(e(8),e(0));var p=function(){return Object(o.jsx)("div",{className:"App",children:"hello world"})};s.a.render(Object(o.jsx)(p,{}),document.getElementById("root"))},8:function(n,t,e){}},[[10,1,2]]]);
-//# sourceMappingURL=main.8591c459.chunk.js.map
