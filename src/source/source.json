@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "name": "Europe",
+      "children": [
+        {
+          "name": "Ukraine",
+          "children": [
+            "Kyiv", "Dnipro", "Kharkiv", "Lviv", "Sumy"
+          ]
+        }, {
+          "name": "Polska",
+          "children": [
+            "Wroclaw", "Warsawa", "Lodz", "Kracow", "Wroclaw"
+          ]
+        }, {
+          "name": "Hungary",
+          "children": [
+            "Budapest", "Debrecen", "Seged"
+          ]
+        }, {
+          "name": "Estonia",
+          "children": [
+            "Tallin", "Narva", "Tartu"
+          ]
+        }, {
+          "name": "Montenegro",
+          "children": [
+            "Kotor", "Budva", "Tivat", "Podgorica"
+          ]
+        }, {
+          "name": "Croatia",
+          "children": [
+            "Haiduk", "Split", "Dubrovnik", "Rieka"
+          ]
+        }, {
+          "name": "Srbe",
+          "children": [
+            "Belgrad", "Subotica", "Novi-Sad"
+          ]
+        }
+      ]
+    }, {
+      "name": "America",
+      "children": [
+        {
+          "name": "USA",
+          "children": [
+            "Washington", "NY", "LA", "Boston", "Chicago","San-Francisko"
+          ]
+        }, {
+          "name": "Mexico",
+          "children": [
+            "Acapulco", "Mexico", "Sinaloa", "Monterey", "Durango"
+          ]
+        }, {
+          "name": "Canada",
+          "children": [
+            "Sascachewan", "Ottawa", "Quebeq", "Winnipeg", "Calgary"
+          ]
+        }
+      ]
+    }, {
+      "name": "Asia",
+      "children": [
+        {
+          "name": "China",
+          "children": [
+            "Pekin", "Quanjou", "Harbin", "Nankin", "Uhan"
+          ]
+        }, {
+          "name": "Japan",
+          "children": [
+            "Tokio", "Yokogama", "Osaka", "Hirosima", "Nagasaki"
+          ]
+        }, {
+          "name": "India",
+          "children": [
+            "Mumbai", "Deli", "Bengaluru", "Koti"
+          ]
+        }
+      ]
+    }
+  ]
+}
